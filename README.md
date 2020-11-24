@@ -39,4 +39,4 @@ Then configure the rules you want to use under the rules section.
 ## Supported Rules
 
 - Fill in provided rules here
-  - [feq/no-undef](docs/rules/no-undef.md): Exclude specific prefix variables.
+  - [feq/no-undef](docs/rules/no-undef.md): Exclude specific prefix variables. Extend from: [eslint/no-undef](https://github.com/eslint/eslint/blob/master/lib/rules/no-undef.js)
